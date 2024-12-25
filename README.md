@@ -3,7 +3,7 @@
 | Nama           | Muhammad Baihaqi Arrisalah       |
 |:---------------|----------------------------------|
 | NPM            | 21081010094                      |
-| Kelas          | Riset Informatika A081           |
+| Kelas          | Riset Informatika D081           |
 | Dosen Pengampu | Dr. Basuki Rahmat, S.Si, M.T     |
 
 ## Jenis Penelitian (Types of Research)
