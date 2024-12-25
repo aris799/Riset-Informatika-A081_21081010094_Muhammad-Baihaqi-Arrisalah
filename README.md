@@ -79,3 +79,35 @@ Penelitian juga dapat dikelompokkan berdasarkan bidang ilmu yang menjadi fokusny
 | 3   | Ekonomi     | Fokus pada analisis ekonomi, keuangan, dan pasar. | Penelitian makroekonomi, mikroekonomi |
 | 4   | Kesehatan   | Fokus pada bidang medis dan kesehatan masyarakat. | Penelitian medis, epidemiologi |
 </details>
+
+## Perbedaan Metode dan Metodologi
+
+Metode dan metodologi memiliki perbedaan mendasar dalam penelitian. Berikut perbedaan detailnya:
+
+| Aspek | Metode | Metodologi |
+|-------|---------|------------|
+| Definisi | Cara atau teknik spesifik yang digunakan untuk mengumpulkan dan menganalisis data | Ilmu yang mempelajari cara atau metode untuk melakukan penelitian |
+| Ruang Lingkup | Lebih sempit dan spesifik, fokus pada teknik atau cara | Lebih luas, mencakup filosofi, pendekatan, dan prinsip penelitian |
+| Penerapan | Bersifat praktis dan teknis dalam pelaksanaan penelitian | Bersifat teoretis dan konseptual dalam perencanaan penelitian |
+| Fungsi | Alat untuk mencapai tujuan penelitian | Kerangka kerja untuk memahami dan mengevaluasi metode |
+| Contoh | Wawancara, survei, observasi, eksperimen | Metodologi kualitatif, kuantitatif, campuran |
+| Tingkatan | Level operasional dan teknis | Level konseptual dan filosofis |
+| Output | Menghasilkan data dan temuan penelitian | Menghasilkan pemahaman tentang proses penelitian |
+| Sifat | Prosedural dan sistematis | Deskriptif dan evaluatif |
+| Fokus | Bagaimana melakukan penelitian | Mengapa menggunakan metode tertentu |
+| Komponen | Teknik, alat, dan prosedur spesifik | Paradigma, pendekatan, dan prinsip penelitian |
+
+## Topik Riset Informatika
+
+| Judul | INOVASI PAYUNG CERDAS BERTENAGA SURYA BERBASIS IOT UNTUK MONITORING & PENGELOLAAN TANAMAN DALAM SMART FARMING |
+|-------|----------------------------------------------------------------------------------------------------------------|
+| Latar Belakang | Perubahan iklim yang terjadi di Indonesia telah memberikan dampak signifikan terhadap sektor pertanian. Menurut data dari Badan Pusat Statistik (BPS) dan Kementerian Pertanian, fenomena curah hujan berlebih dan paparan sinar matahari yang intens semakin sering terjadi. Kondisi ini berpotensi menyebabkan kerusakan fisik pada tanaman, seperti pembusukan akibat hujan deras atau kekeringan akibat paparan sinar matahari berlebih, yang pada akhirnya menurunkan produktivitas pertanian. Curah hujan yang tinggi tidak hanya menyebabkan kelebihan air, tetapi juga dapat menghambat penyerapan nutrisi tanaman dan merusak struktur tanah. Di sisi lain, intensitas cahaya matahari yang berlebihan dapat menyebabkan stress tanaman, memperlambat pertumbuhan, dan bahkan memicu kerusakan sel tanaman. <br><br>Untuk mengatasi permasalahan tersebut, penerapan teknologi Smart Farming menjadi solusi yang menjanjikan. Teknologi ini telah terbukti memberikan berbagai manfaat signifikan dalam sektor pertanian, seperti meningkatkan pendapatan petani, memperbaiki kondisi sosial ekonomi masyarakat desa, serta menjaga konservasi air dan biodiversitas tanaman. Berdasarkan data dari Cultyvate (2020), teknologi Smart Farming mampu meningkatkan produksi tanaman hingga 20%, menurunkan penggunaan air sebesar 30%, mengurangi kebutuhan tenaga kerja manual hingga 50%, dan mengurangi penggunaan pupuk serta pestisida sebanyak 10%. Oleh karena itu, inovasi payung cerdas bertenaga surya berbasis IoT untuk monitoring dan pengelolaan tanaman diusulkan sebagai solusi yang dapat membantu petani melakukan pengelolaan tanaman secara optimal dan presisi, sehingga meningkatkan efisiensi penggunaan sumber daya serta produktivitas hasil panen. |
+| Jurnal Acuan | https://www.researchgate.net/publication/347453397_Automatic_Garden_Umbrella_Prototype_with_Light_and_Rain_Sensor_Based_on_Arduino_Uno_Microcontroller |
+
+| Judul | INOVASI PAYUNG CERDAS BERTENAGA SURYA BERBASIS IOT UNTUK MONITORING & PENGELOLAAN TANAMAN DALAM SMART FARMING |
+|-------|-----------|
+| Penelitian Terdahulu | Penelitian terdahulu berfokus pada sistem otomatisasi perlingkungan tanaman menggunakan rain sensor dan IoT untuk membuka dan menutup atap pelindung tanaman saat hujan. Namun, sistem ini masih bergantung pada sumber daya listrik eksternal.  Pada penelitian lain menggunakan energi matahari namun sistem ini hanya bergantung pada sumber daya lingkungan. |
+| Research Gap | Berdasarkan penelitian terdahulu, terdapat gap penelitian dalam hal penggunaan payung cerdas bertenaga surya yang terintegrasi dengan sistem monitoring IoT untuk perlindungan tanaman secara otomatis. Penelitian sebelumnya belum mengeksplorasi penggunaan panel surya sebagai sumber daya utama. Integrasi panel surya memungkinkan sistem tetap beroperasi meskipun tidak ada sumber listrik eksternal, sehingga menawarkan solusi pengelolaan tanaman yang lebih efisien dan ramah lingkungan. Selain itu, bentuk prototype dari alat ini adalah payung yang memiliki katup, dan membuka tutup secara otomatis dalam kondisi tertentu|
+| Originality | Proyek ini mengembangkan payung cerdas berbasis IoT yang secara otomatis memonitor curah hujan, kelembaban tanah, dan cahaya matahari untuk tanaman. Alat ini akan otomatis membuka atau saat tanaman membutuhkan sinar matahari serta air (pada saat kering) dan menutup saat kebutuhan tanaman tercukup. Alat ini juga menggunakan panel surya sebagai sumber daya utama. |
+| Novelty | Keunikan proyek ini terletak pada penggunaan payung cerdas IoT yang merespons otomatis terhadap perubahan curah hujan, kelembaban tanah, dan cahaya matahari. Selain itu, sistem ini memanfaatkan panel surya sebagai sumber daya utama. Integrasi panel surya memungkinkan sistem tetap beroperasi meskipun tidak ada sumber listrik eksternal, sehingga menawarkan solusi pengelolaan tanaman yang lebih efisien dan ramah lingkungan. |
+| Contribution | Proyek ini menyediakan solusi otomatis untuk pengelolaan tanaman dengan menggunakan keterpaduan pada intervensi manual. Teknologi ini tidak hanya meningkatkan efisiensi pengelolaan air dan perlindungan tanaman tetapi juga memperkenalkan penggunaan panel surya sebagai sumber daya utama. Hal ini dapat menginspirasi penerapan teknologi serupa di area terpencil tanpa ketergantungan listrik eksternal. |
