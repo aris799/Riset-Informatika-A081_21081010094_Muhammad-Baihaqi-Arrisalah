@@ -111,3 +111,20 @@ Metode dan metodologi memiliki perbedaan mendasar dalam penelitian. Berikut perb
 | Originality | Proyek ini mengembangkan payung cerdas berbasis IoT yang secara otomatis memonitor curah hujan, kelembaban tanah, dan cahaya matahari untuk tanaman. Alat ini akan otomatis membuka atau saat tanaman membutuhkan sinar matahari serta air (pada saat kering) dan menutup saat kebutuhan tanaman tercukup. Alat ini juga menggunakan panel surya sebagai sumber daya utama. |
 | Novelty | Keunikan proyek ini terletak pada penggunaan payung cerdas IoT yang merespons otomatis terhadap perubahan curah hujan, kelembaban tanah, dan cahaya matahari. Selain itu, sistem ini memanfaatkan panel surya sebagai sumber daya utama. Integrasi panel surya memungkinkan sistem tetap beroperasi meskipun tidak ada sumber listrik eksternal, sehingga menawarkan solusi pengelolaan tanaman yang lebih efisien dan ramah lingkungan. |
 | Contribution | Proyek ini menyediakan solusi otomatis untuk pengelolaan tanaman dengan menggunakan keterpaduan pada intervensi manual. Teknologi ini tidak hanya meningkatkan efisiensi pengelolaan air dan perlindungan tanaman tetapi juga memperkenalkan penggunaan panel surya sebagai sumber daya utama. Hal ini dapat menginspirasi penerapan teknologi serupa di area terpencil tanpa ketergantungan listrik eksternal. |
+
+## Mind Map
+
+![Mind Map - Payung IOT](https://github.com/aris799/cloud-engginer-project1/blob/34084d57781889915d1a071b2aeeb08f8b6d942e/Mind%20Map%20-%20Payung%20IOT.jpg)
+
+## Metodologi Penelitian
+
+![Metodologi - Payung IOT](https://github.com/aris799/cloud-engginer-project1/blob/34084d57781889915d1a071b2aeeb08f8b6d942e/Metodologi%20-%20Payung%20IOT.jpg)
+
+## Prototype
+
+![Prototype - Payung IOT](https://github.com/aris799/cloud-engginer-project1/blob/34084d57781889915d1a071b2aeeb08f8b6d942e/Prototype-%20Payung%20IOT.jpg)
+
+## Sirkuit
+
+![Sirkuit - Payung IOT](https://github.com/aris799/cloud-engginer-project1/blob/34084d57781889915d1a071b2aeeb08f8b6d942e/Sirkuit%20-%20Payung%20IOT.jpg)
+
